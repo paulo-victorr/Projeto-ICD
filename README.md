@@ -5,7 +5,7 @@ INTEGRANTES:
 - Paulo Victor Cordeiro Rufino de Araújo
 - Pedro Lucas de Melo Carneiro
 - Jonathan Brito Holanda Lucena
-- FABIO FILIPE MARTINS FIGUEIREDO
+- Fábio Filipe Martins Figueiredo
 
 PERGUNTAS:
 1 - Como as vendas de videogames variam por região (América do Norte, Europa, Japão, etc.)?
